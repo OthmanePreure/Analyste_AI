@@ -1,0 +1,11 @@
+plotly
+gradio
+openai
+pandas
+numpy
+matplotlib
+yaml
+collections
+datetime
+dotenv
+configparser
