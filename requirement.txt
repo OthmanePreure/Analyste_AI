@@ -4,8 +4,11 @@ openai
 pandas
 numpy
 matplotlib
-yaml
-collections
+PyYAML
+collection
 datetime
 dotenv
 configparser
+scipy
+chromadb
+pip install openpyxl
